@@ -1,4 +1,4 @@
-# 🔐 Password Leak Checker
+# Password Leak Checker 🔐
 
 A privacy-focused web tool that checks if your password(s) have been compromised in known data breaches — built with [Streamlit](https://streamlit.io/) and powered by the [Have I Been Pwned API](https://haveibeenpwned.com/API/v3#PwnedPasswords).
 
@@ -25,6 +25,6 @@ A privacy-focused web tool that checks if your password(s) have been compromised
 
 - **Frontend/Backend:** [Streamlit](https://streamlit.io/)
 - **API:** [Have I Been Pwned – Pwned Passwords](https://haveibeenpwned.com/API/v3#PwnedPasswords)
-- **Language:** Python 3
+- **Language:** Python3
 
 ---
